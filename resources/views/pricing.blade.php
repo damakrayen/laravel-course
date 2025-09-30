@@ -332,9 +332,9 @@ filter: brightness(0) invert(1); /* Makes icons white if they're dark */
               description: "Perfect for individuals and small teams",
               monthlyPrice: 0,
               yearlyPrice: 0,
-              storage: "10 GB",
+              storage: "5 GB",
               features: [
-                "10 GB secure storage",
+                "5 GB secure storage",
 
                 "Standard encryption",
                 "Email support",
