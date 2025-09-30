@@ -387,7 +387,7 @@ filter: brightness(0) invert(1); /* Makes icons white if they're dark */
                   <div class="mt-4">
                     <div class="flex items-baseline justify-center">
                       <span class="text-4xl font-bold">TND ${price}</span>
-                      ${plan.monthlyPrice > 0 ? `<span class="ml-1 text-gray-500">/${isYearly ? "year" : "month"}</span>` : ""}
+                      ${plan.monthlyPrice > 0 ? `<span class="ml-1 text-gray-500">/${isYearly ? "12TB/year" : "1TB/month"}</span>` : ""}
                     </div>
                     ${isYearly && plan.monthlyPrice > 0 ? `<div class="text-sm text-gray-500 mt-1">TND ${Math.round(price/12)}/month billed annually</div>` : ""}
                     ${isYearly && savings > 0 ? `<span class="mt-2 inline-block px-2 py-1 border rounded text-xs">Save ${savings}%</span>` : ""}
