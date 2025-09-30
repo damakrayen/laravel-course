@@ -319,7 +319,7 @@ filter: brightness(0) invert(1); /* Makes icons white if they're dark */
               </div>
               <div class="flex items-center justify-between">
                 <span class="text-gray-500">Price</span>
-                <span class="font-medium">$39.99/monthly</span>
+                <span class="font-medium">$TND 9.99/monthly</span>
               </div>
               <div class="flex items-center justify-between">
                 <span class="text-gray-500">Next billing</span>
@@ -425,7 +425,7 @@ filter: brightness(0) invert(1); /* Makes icons white if they're dark */
                 </div>
                 <div class="flex items-center gap-4">
                   <div class="text-right">
-                    <div class="font-medium">$39.99</div>
+                    <div class="font-medium">TND 39.99</div>
                     <div class="text-sm text-gray-500">2025-10-15</div>
                   </div>
                   <span class="px-2 py-1 bg-green-100 text-green-700 rounded text-sm">Paid</span>
