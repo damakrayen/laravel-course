@@ -15,7 +15,7 @@
         </p>
     </div>
         <div class="text-center mt-8">
-            <a href="{{ route('contact') }}" class="bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700">Contact-us</a>
+            <a href="mailto:contact@OneCloudium.com" class="bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700">Contact-us</a>
         </div>
         <br><br><br><br><br><br><br><br> <br><br><br>
         <footer class="footer">
